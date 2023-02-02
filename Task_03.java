@@ -35,5 +35,4 @@ public class Task_03 {
         System.out.printf("Out number = %s, \n", out_number);
     }
 
-    
 }

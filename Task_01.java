@@ -20,7 +20,6 @@ import java.util.Scanner;
         while (count <= number) {
             sum += count;
             count++;
-            
         }
         System.out.printf("%s-е треугольное число = %s \n", number, sum);
     }

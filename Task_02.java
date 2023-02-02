@@ -34,7 +34,6 @@ public class Task_02 {
                 numbers_array.add(i);
             }
             
-            
         }
         System.out.println(numbers_array);
         
